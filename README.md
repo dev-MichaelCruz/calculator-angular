@@ -13,3 +13,5 @@
 * The default path of the aplication is `http://localhost:4200/`. Open your browser using this path.
 
 ## Enjoy!
+
+![layout]([imagem](https://github.com/dev-MichaelCruz/calculator-angular/blob/main/src/assets/img_01.png)https://github.com/dev-MichaelCruz/calculator-angular/blob/main/src/assets/img_01.png)
