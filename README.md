@@ -14,4 +14,4 @@
 
 ## Enjoy!
 
-![imagem](https://github.com/dev-MichaelCruz/calculator-angular/blob/main/src/assets/img_01.png)
+![imagem](https://github.com/dev-MichaelCruz/calculator-angular/blob/main/src/assets/img_01.png&height=200px)
